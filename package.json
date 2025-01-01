@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-aws-s3-seo",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Strapi CMS: AWS S3 upload provider with image resizing, conversion (avif, webp, jpg, png) and optimization",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,7 @@
   "strapi": {
     "isProvider": true
   },
+  "homepage": "https://www.thebootcode.io",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.717.0",
     "@aws-sdk/lib-storage": "^3.717.0",
